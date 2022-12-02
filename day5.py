@@ -4,7 +4,6 @@ Create a function called my_discount. The function takes no arguments but asks t
 and the discount (percentage) of the product. Once the user inputs the price and discount, it calculates the price after
 discount. For example, if the user enters 150 as price and 15% as the discount, your function should return 127.5.
 """
-from collections import Counter
 
 
 def my_discount():
